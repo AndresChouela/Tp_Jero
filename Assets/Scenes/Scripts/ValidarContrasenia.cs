@@ -13,4 +13,9 @@ public class ValidarContrasenia : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public void validarcontrasenia()
+    {
+
+    }
 }
